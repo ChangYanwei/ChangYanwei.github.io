@@ -6,7 +6,7 @@
   <link href="https://changyanwei.github.io/atom.xml" rel="self"/>
   
   <link href="https://changyanwei.github.io/"/>
-  <updated>2021-10-10T16:00:32.719Z</updated>
+  <updated>2021-10-10T16:08:39.921Z</updated>
   <id>https://changyanwei.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>行动大于计划</title>
-    <link href="https://changyanwei.github.io/2021/10/10/ri-zhi/2021/10-yue/10-10/"/>
-    <id>https://changyanwei.github.io/2021/10/10/ri-zhi/2021/10-yue/10-10/</id>
+    <link href="https://changyanwei.github.io/2021/10/10/ri-zhi/2021/10-yue/10-10-xing-dong-da-yu-ji-hua/"/>
+    <id>https://changyanwei.github.io/2021/10/10/ri-zhi/2021/10-yue/10-10-xing-dong-da-yu-ji-hua/</id>
     <published>2021-10-10T15:45:00.000Z</published>
-    <updated>2021-10-10T16:00:32.719Z</updated>
+    <updated>2021-10-10T16:08:39.921Z</updated>
     
     
       
@@ -42,11 +42,11 @@
   </entry>
   
   <entry>
-    <title>2021.10.9第一篇网络日志</title>
-    <link href="https://changyanwei.github.io/2021/10/09/ri-zhi/2021/10-yue/10-9/"/>
-    <id>https://changyanwei.github.io/2021/10/09/ri-zhi/2021/10-yue/10-9/</id>
+    <title>第一篇网络日志</title>
+    <link href="https://changyanwei.github.io/2021/10/09/ri-zhi/2021/10-yue/10-9-di-yi-pian-wang-luo-ri-zhi/"/>
+    <id>https://changyanwei.github.io/2021/10/09/ri-zhi/2021/10-yue/10-9-di-yi-pian-wang-luo-ri-zhi/</id>
     <published>2021-10-09T15:45:00.000Z</published>
-    <updated>2021-10-10T15:48:22.489Z</updated>
+    <updated>2021-10-10T16:09:14.403Z</updated>
     
     
       
@@ -64,27 +64,6 @@
     
     
     <category term="日志" scheme="https://changyanwei.github.io/tags/%E6%97%A5%E5%BF%97/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://changyanwei.github.io/2021/10/09/hello-world/"/>
-    <id>https://changyanwei.github.io/2021/10/09/hello-world/</id>
-    <published>2021-10-09T11:19:25.237Z</published>
-    <updated>1985-10-26T08:15:00.000Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
-        
-      
-    
-    
-    
     
   </entry>
   
